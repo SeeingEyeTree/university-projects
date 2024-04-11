@@ -1,0 +1,16 @@
+Input Syntax
+Power functions
+Always need * and ^
+k is always a positive decimal or whole number
+c is a decimal or whole number
+c*x^k
+5= 5*x^0
+x= 1*x^1
+
+Trig
+multplcation is not acepted 3sin(x) and 3*sin(x) will result in an error
+sin(x)
+Can put as many functions in one line as needed
+
+
+
